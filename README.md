@@ -50,7 +50,9 @@
 - Exract Flutter SDK zip
 - Open environment variables
 - Add flutter path in user and system varables
-- D:\Flutter_SDK\flutter\bin
+    ```bash
+        D:\Flutter_SDK\flutter\bin
+    ```
 - Open CMD and run
     ```bash
         flutter doctor
